@@ -1,0 +1,4 @@
+rm -rf .git
+rm -rf .gitignore
+cd ../
+git rm --cached subfolder
